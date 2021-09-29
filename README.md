@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola Tod@s! 👋
+## Julian David Alfonso Moreno
 
-<!--
-**juliandalfonso/juliandalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## bienvenidos a mi Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy apasionado por el desarrollo y la programación
+
+- 🔭 Trabajo como desarrollador Front-end
+- 🌱 Aprendo Rápido lo que me gusta
+- 🤔 Me causa curiosidad la inteligencia artificial y la nube
+- 💬 Estoy dispuesto a colaborar en diferentes proyectos
+- 📫 @juliandalfonso en mis redes sociales instagram-facebook
+- ⚡ Fun fact: me gusta el rap
