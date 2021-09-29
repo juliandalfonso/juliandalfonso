@@ -1,5 +1,5 @@
-### Hola Tod@s! 👋
-## Julian David Alfonso Moreno
+### Julian David Alfonso Moreno! 
+## Hola a Tod@s! 👋
 
 ---
 
