@@ -6,7 +6,7 @@
 
 - 🔭 Trabajo como desarrollador Front-end
 - 🌱 Aprendo Rápido lo que me gusta
-- 🤔 Me causa curiosidad la inteligencia artificial y la nube
+- 🤔 Me causa curiosidad la inteligencia artificial y el diseño de interfaces gráficas
 - 💬 Estoy dispuesto a colaborar en diferentes proyectos
 - 📫 @juliandalfonso en mis redes sociales instagram-facebook
 - ⚡ Fun fact: me gusta el rap
