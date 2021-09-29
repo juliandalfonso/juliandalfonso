@@ -1,7 +1,7 @@
 ### Soy Julian David Alfonso
 ## Bienvenidos a mi Github! 👋
 
-### Estoy apasionado por el desarrollo y la programación Me encanta el concepto de diseño gráfico por un lado y tecnología por el otro
+### Estoy apasionado por el desarrollo y la programación, Me encanta el concepto de diseño gráfico por un lado y tecnología por el otro
 
 ---
 
