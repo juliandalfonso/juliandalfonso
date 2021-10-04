@@ -4,7 +4,7 @@
 
 <img align="center" src="https://media-exp1.licdn.com/dms/image/C5616AQEeahEYxwBVPA/profile-displaybackgroundimage-shrink_350_1400/0/1593707509079?e=1639008000&v=beta&t=50OIjo9jO2L78AcmbB05CdhwSql_Hre9KTSLiON_mQg"/></h1>
 
-<h2> Estoy apasionado por el desarrollo y la programación, Me encanta el concepto de diseño gráfico por un lado y tecnología por el otro </h2>
+<h2> Estoy apasionado por el desarrollo y la programación, Me encantan la unión de los conceptos diseño gráfico y programación</h2>
 
 
 
